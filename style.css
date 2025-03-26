@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    color: antiquewhite;
+    background-color: #070707;
+
+}
+h1.titulo{
+    color: white;
+    text-align: center;
+}
+.subtitulo{
+    color: white;
+    text-align: center;
+}
+p{
+    color: white;
+    text-align: center;
+}
+
+.ejemploGif{
+    width: 600px;
+    height: 250px;
+    margin: 0 auto;
+    display: block;
+    
+}
