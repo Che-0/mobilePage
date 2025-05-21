@@ -1,16 +1,19 @@
 body {
     font-family: Arial, sans-serif;
     color: antiquewhite;
-    background-color: #070707;
+    background-color: 
+    #f48cb4;
 
 }
 h1.titulo{
     color: white;
     text-align: center;
+    
 }
 .subtitulo{
     color: white;
     text-align: center;
+    
 }
 p{
     color: white;
@@ -21,6 +24,7 @@ p{
     width: 600px;
     height: 250px;
     margin: 0 auto;
+    padding: 60px;
     display: block;
     
 }
@@ -29,4 +33,25 @@ p{
     width: 100px;
     height: 100px;
     position: fixed ;
+}
+
+.contenedor{
+    padding: 20px;
+    width: 900px;
+    background-color: #23247a;
+    font-display: flex;
+    display:inline-block   ;
+}
+
+.mona_china{
+    position: sticky;
+    
+}
+
+.monaizquierda{
+    
+    display: inline-block;
+    
+    background-color: green;
+    border: 2px solid #4CAF50;
 }
